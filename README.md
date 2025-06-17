@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Tristan Dujali.</h1>
-<h3 align="center">A fullstack developer from Sub-Saharan Mindanao.</h3>
+<h3 align="center">An aspiring fullstack developer from Davao City.</h3>
 
-- 🔭 I’m currently working on [barangay-complaint-system](https://github.com/Hirocenzo/barangay-complaint-system)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
